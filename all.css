@@ -1,0 +1,48 @@
+.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+    a{
+        text-decoration: none !important;
+    }
+    .a{
+        width: 15%;
+        height: 30px;
+        border-radius: 5px;
+        font-size: 20px;
+       font-family: Arial, Helvetica, sans-serif;
+    }
+    input{
+        width: 50% !important;
+    }
+    label{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    select{
+        width: 50% !important;
+    }
+    #result{
+        width: 40% !important;         
+    }
+    button:hover{
+        box-shadow: 12px 12px 12px gainsboro;
+    }
+    .navbar-brand{
+         font-size: 30px;
+        
+    }
+    .navbar-nav{
+        margin-left: 25%;
+    }
+    .nav-item{
+        margin-left:2% ;
+    }
+
+    html{
+        scroll-behavior: smooth !important;
+    }
+
+
+    #metric-margin1{
+        margin-top: 3rem !important;
+    }
